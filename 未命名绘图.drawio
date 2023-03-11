@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T07:26:49.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bBJS66Q_2ft2yDEtZM_v" version="21.0.6" type="github"><diagram name="第 1 页" id="dTuLWrFOJhDjmV_hQB7G">7Vpbc9o6EP41ekzG8lV6tIlJZ9rOtJOHnvN0RgEF3BjECBEgv/7o5rsJECC0PSfDJNZqV1rt5dOuCfAGs809J4vpVzamOXCd8QZ4d8B13chx5B9F2RoKhCgylAnPxpZWER6yV2qJVnCyysZ02WAUjOUiWzSJIzaf05Fo0AjnbN1ke2J5c9cFmdgdnYrwMCI57bD9yMZiaqjIjSr6J5pNpsXOMMRmZkYKZrvwckrGbF0jeSnwBpwxYZ5mmwHNlfUKuxi54Y7ZUjFO5+IQgZ/Pn+8fEfmx/Dr6At3v/9y7D683gVnlheQre2CrrNgWFqBjaRA7ZFxM2YTNSZ5W1ISz1XxM1TaOHFU8XxhbSCKUxJ9UiK31LlkJJklTMcvt7FJw9kwHLGdc7+kNIR5gLGeMNkqFnae2pCVb8RF946iejR7CJ1S8weeXvpFRTdmMCr6VcpzmRGQvTT2Ija5JyVc5QD5YHxzhD6/rjzQA6A6gIUgRiFP1cRNFxEP1UQ+OYkiHIBkAHAM3zOXxkkcunyZCG1qoZImVZlKn2WP2esvI7YjNur7Oc5lYyqfraSbow4Jok65lcu/xWIwHfpqUHnuhXNDN2z7r2tgK3EDs2aSxsHETFHiwrpIQFpk1rSUgci7kGfzfyRT/wExB18wUvydTEEgiEMukiAD2QQJrlAAkKUB+LU2GZDXORDddXjK6Ltliw/OLpknk/3JpgjpuMSaULkkS7QBfPSRhx6h8ymaPq+XVjRq4BxgVfaRNYU+sH489sv5YqFlbKSnjnY5HOXmkeUJGzxO9VOGUMX0iK51XuwHric3FkMyyXNn5E81fqMhGxE7YDSG04+7CdD6OVX2nTpST5TIbHQWCe8ENeieimxX9xjK5dS2+fNSOr7AVOAagrWAVO/K4ZFtjWyiG5XFbwVaNeLSIfDB6VOFcGueECO+re2S5EwEU6hInUfCtKiGkKRJDJLLHdgrreij2FX+KAfJAjCrmdqZcGV3akB26B0J2O0rOBy9dzP4fXk6El701Fjy0HYHROXDoHdjhB61ADfZixx6RC2FH1AlfeCvHCgpiqCqNChM0biAJF6H6jbACGdlZ4YHtsnCgmR09pXlirLElVUtJSuyoFWQxE0vmUBeacjbQ5Q1UhY1CpFQJvrtmPChw3Z2Be2H88nELv6Kgi1/4Q+Gr25m5xv8hwHfab0XJ2etbNChuEtNQe5rHHTI+03cQLG4TEx66MZAyB8VJKRXqMHO0KrG6qpRykdVJPfi1lbvrHMWst7BHggAjLjYNfqkJivujWtLVLqE+GqxJ6YYqLhZHqVZpqCMfqf4qNt1XCrCntzBJ0XWAMTfW1tPGUSvHui94w3r6KpcHr9wRKnqifSx51DuRdjdRXj3wlI6inmOSHuqfVi4658otD7Zzq6+di3qSqywYzp5dxTlq2eWV6Ora8qyBnE4j7GU8KC/LALgrYLaZbxdy3HmKtXYxHHmHtYL+xdzRUyh3bpq+0qVmtGZVdr0Sq69ilK7h27+UardBMfzb6q0Hdxurtxlti9EmE0bM85AdK7kb59bxXEuoZNWgLvqN8kw6iHJLu0ahtysaa6EW9IRaQTu5L+289yi/vNnTl/atFbW7nKC1ljFHZ61zFYVu95WJb2DLXFdh8ULKNJNDe/HIO8+8LPyNQCoK2367ekfphn84Slm0gTWksYC1E2bODinXQwqvHXEhfDdSdGqesB2Vl0aKbvv4Z8XqqTfqNWP8kGtzx/e1H3Ztdr6DaX8PcHgyhO3ECvC5kkEOq381MOzVf2x46b8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-11T07:35:45.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ER0-15hPcsGnjK2JZHlb" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="dTuLWrFOJhDjmV_hQB7G">
+    <mxGraphModel dx="2700" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F19C99;" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-3" target="jkKGb8aWsMcL12Q_G2Sz-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-3" value="协议+域名：&lt;br&gt;https://mmbiz.oa.com" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="-1930" y="-510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F19C99;" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-4" target="jkKGb8aWsMcL12Q_G2Sz-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-4" value="路由路径：/audit&lt;br&gt;view：Audit" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="-1740" y="-510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-8" value="Audit组件" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="-510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-14" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" target="jkKGb8aWsMcL12Q_G2Sz-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1480" y="-560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1480" y="-510" />
+              <mxPoint x="-1480" y="-510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-13" value="视图分为四大部分" style="whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="-1540" y="-620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-18" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-13" target="jkKGb8aWsMcL12Q_G2Sz-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1445" y="-650" />
+              <mxPoint x="-1445" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;1. 顶部下拉菜单选择审核策略类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;strokeColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="-1490" y="-750" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-19" value="2. 条件选择区域。Form表单，选择审核单提交时间，审核时间，审核人员rtx，及审核状态，用于查询输入条件匹配的审核单列表数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;fontColor=#666666;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="-1310" y="-710" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-21" value="3. 领单退单操作区域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="-1580" y="-730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-23" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.338;exitY=-0.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-13" target="jkKGb8aWsMcL12Q_G2Sz-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1520" y="-700" as="sourcePoint" />
+            <mxPoint x="-1570" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-24" value="4. 详细信息区域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-26" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1360" y="-610" as="sourcePoint" />
+            <mxPoint x="-1310" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-27" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-13" target="jkKGb8aWsMcL12Q_G2Sz-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1540" y="-580" as="sourcePoint" />
+            <mxPoint x="-1660" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
