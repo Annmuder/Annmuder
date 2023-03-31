@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T07:35:45.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ER0-15hPcsGnjK2JZHlb" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T18:08:48.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="8Ovn6M-aVzVNDMzk_iZL" version="21.1.2" type="github">
   <diagram name="第 1 页" id="dTuLWrFOJhDjmV_hQB7G">
-    <mxGraphModel dx="2700" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3050" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,19 +31,14 @@
         <mxCell id="jkKGb8aWsMcL12Q_G2Sz-13" value="视图分为四大部分" style="whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="-1540" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-18" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-13" target="jkKGb8aWsMcL12Q_G2Sz-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1445" y="-650" />
-              <mxPoint x="-1445" y="-650" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IE_uB2pCFFnET_xsAAwf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F19C99;" edge="1" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-13" target="jkKGb8aWsMcL12Q_G2Sz-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jkKGb8aWsMcL12Q_G2Sz-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;1. 顶部下拉菜单选择审核策略类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;strokeColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="-1490" y="-750" width="130" height="60" as="geometry" />
+          <mxGeometry x="-1340" y="-620" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jkKGb8aWsMcL12Q_G2Sz-19" value="2. 条件选择区域。Form表单，选择审核单提交时间，审核时间，审核人员rtx，及审核状态，用于查询输入条件匹配的审核单列表数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;fontColor=#666666;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-1310" y="-710" width="170" height="120" as="geometry" />
+          <mxGeometry x="-1470" y="-800" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jkKGb8aWsMcL12Q_G2Sz-21" value="3. 领单退单操作区域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="-730" width="80" height="40" as="geometry" />
@@ -57,9 +52,9 @@
         <mxCell id="jkKGb8aWsMcL12Q_G2Sz-24" value="4. 详细信息区域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="-1760" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-26" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-13" edge="1">
+        <mxCell id="jkKGb8aWsMcL12Q_G2Sz-26" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0.424;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="jkKGb8aWsMcL12Q_G2Sz-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1360" y="-610" as="sourcePoint" />
+            <mxPoint x="-1450" y="-620" as="sourcePoint" />
             <mxPoint x="-1310" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -68,6 +63,36 @@
             <mxPoint x="-1540" y="-580" as="sourcePoint" />
             <mxPoint x="-1660" y="-590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IE_uB2pCFFnET_xsAAwf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;exitX=0.845;exitY=-0.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#F19C99;" edge="1" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-21" target="IE_uB2pCFFnET_xsAAwf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1510" y="-770" as="sourcePoint" />
+            <mxPoint x="-1512" y="-830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1510" y="-732" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IE_uB2pCFFnET_xsAAwf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeColor=#F19C99;" edge="1" parent="1" source="IE_uB2pCFFnET_xsAAwf-2" target="IE_uB2pCFFnET_xsAAwf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IE_uB2pCFFnET_xsAAwf-2" value="请求到审核单列表数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#A9C4EB;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IE_uB2pCFFnET_xsAAwf-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;exitX=0.678;exitY=-0.025;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;strokeColor=#F19C99;" edge="1" parent="1" source="jkKGb8aWsMcL12Q_G2Sz-19" target="IE_uB2pCFFnET_xsAAwf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1310" y="-810" as="sourcePoint" />
+            <mxPoint x="-1370" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IE_uB2pCFFnET_xsAAwf-11" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#F19C99;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="IE_uB2pCFFnET_xsAAwf-8" target="IE_uB2pCFFnET_xsAAwf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IE_uB2pCFFnET_xsAAwf-8" value="存入vuex" style="whiteSpace=wrap;html=1;fontSize=10;strokeColor=#A9C4EB;fontColor=#666666;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IE_uB2pCFFnET_xsAAwf-10" value="详细信息组件可以获取列表并进行渲染" style="whiteSpace=wrap;html=1;fontSize=10;strokeColor=#A9C4EB;fontColor=#666666;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="-1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
